@@ -1,3 +1,0 @@
-version nueva
-version ultimate
-version mexicana
